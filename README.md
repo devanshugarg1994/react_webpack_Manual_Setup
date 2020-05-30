@@ -25,3 +25,4 @@ We have use babel to transpile the ES6 code and react JSX.</br>
 
 Html-webpack-plugin is also used to automate the procees of creating html in the `./build` folder according to the template `./src/index.html`.</br>
 
+[Basic Manual Setup](../../tree/d95effec5efa2f3b12445bcd0ad2074a167e0a73)
